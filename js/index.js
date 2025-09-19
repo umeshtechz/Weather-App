@@ -25,6 +25,3 @@ async function getWeather(){
 searchIcon.addEventListener('click',getWeather);
 
 
-// let y="umesh";
-// let x=y.toUpperCase()
-// console.log(x)

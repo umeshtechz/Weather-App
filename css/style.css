@@ -1,3 +1,6 @@
+.body{
+    background-color: red;
+}
 .main{
     width: 500px;
     background: linear-gradient(rgb(94, 240, 194),rgba(42, 42, 204, 0.918),rgba(111, 63, 174, 0.749));
